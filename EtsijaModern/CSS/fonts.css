@@ -1,0 +1,67 @@
+h1, h2 {
+font-family: 'Josefin Sans', sans-serif;
+color:#fa9a2c;
+font-size: 1 rem;
+line-height: 1em;
+
+
+}
+
+/*
+@font-face {
+    font-family:'CaviarDreams';
+    src: url(http://example.dev/wordpress/wp-content/themes/Etsija/CSS/caviar_dreams/CaviarDreams.ttf);
+    font-weight: normal;
+}
+*/
+/*
+font-family: 'Lexend Deca', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+font-family: 'Questrial', sans-serif;
+font-family: 'Didact Gothic', sans-serif;
+font-family: 'Caveat', cursive;
+font-family: 'Julius Sans One', sans-serif;
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Caveat|Didact+Gothic|Josefin+Sans|Julius+Sans+One|Lexend+Deca|Lobster|Montserrat|Pacifico|Questrial|Yanone+Kaffeesatz&display=swap&subset=latin-ext');
+
+p {
+  font-family: 'Roboto';
+  line-height: 1.9em;
+  width: 100%;
+}
+
+a, a:visited, a:active {
+color:#ccc;
+font-family: 'roboto';
+text-decoration: none;
+
+}
+
+h3 {
+font-family:'CaviarDreams';
+  font-size: 1em;
+  font: #fa9a2c;
+}
+
+.logo_post a, a:visited, a:active {
+color:#fa9a2c;
+
+}
+
+.navigation-top a {
+color: #ccc;
+
+}
+
+blockquote {
+font-family: 'Julius Sans One', sans-serif;
+padding:0px 0px 0px 10px;
+border-left: solid 5px #000;
+
+
+}
